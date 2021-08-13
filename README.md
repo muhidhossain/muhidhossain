@@ -54,7 +54,7 @@
 [job]: https://namyata.com/
 
 [linkedin]: https://www.linkedin.com/in/muhidhossain/
-[stackoverflow]: https://stackoverflow.com/users/13667519/muhid-hossain
+[stackoverflow]: https://stackoverflow.com/users/13667519/muhid-hossain?tab=profile
 [medium]: https://medium.com/@cupOfCodeInMorning
 [youtube]: https://www.youtube.com/channel/UCswEDubzQ5DmaPzE3YusgUQ
 [facebook]: https://www.facebook.com/muhid.hossain.18/
