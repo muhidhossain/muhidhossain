@@ -45,7 +45,7 @@
 
 ### Coding Activity (VS Code Only)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhidhossain&theme=nightowl&layout=compact)]()
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhidhossain&theme=nightowl&layout=compact&v=2)]()
 
 
 
