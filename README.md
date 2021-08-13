@@ -34,6 +34,8 @@
 [![Yarn Badge][yarn_img]](#)
 [![VSCode Badge][vscode_img]](#)
 [![Git Badge][git_img]](#)
+[![Linux Badge][linux_img]](#)
+[![Ubuntu Badge][ubuntu_img]](#)
 
 ### Profile Visits 
 
@@ -86,5 +88,7 @@
 [yarn_img]: https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white
 [vscode_img]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 [git_img]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+[linux_img]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[ubuntu_img]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 
 
