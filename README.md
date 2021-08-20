@@ -57,7 +57,7 @@
 
 [linkedin]: https://www.linkedin.com/in/muhidhossain/
 [stackoverflow]: https://stackoverflow.com/users/13667519/muhid-hossain?tab=profile
-[medium]: https://medium.com/@cupOfCodeInMorning
+[medium]: https://muhidhossain.medium.com
 [youtube]: https://www.youtube.com/channel/UCswEDubzQ5DmaPzE3YusgUQ
 [facebook]: https://www.facebook.com/muhid.hossain.18/
 [instagram]: https://www.instagram.com/_abdul_muhit/
