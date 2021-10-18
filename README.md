@@ -3,7 +3,7 @@
 - 💻 Currently working at [Namyata Technology][job]
 - 🌱 Learning new things everyday
 - 📫 How to reach me [@muhidhossain][linkedin]
-- ⚡ Fun fact: Love to enjoy the moment after solving any problem ✌✌️
+- ⚡ Fun fact: Love to enjoy that moment after solving any problem ✌✌️
 
 ### Connect with me ☕:
 
