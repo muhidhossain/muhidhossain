@@ -45,7 +45,8 @@
 
 [![Langguages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhidhossain&hide=stylus&count_private=true&card_width=495&theme=nightowl)]()
 
-### Coding Activity (VS Code Only)
+### Coding activity of last year (VS Code Only)
+[![wakatime](https://wakatime.com/badge/user/4636b4d3-b3ea-4729-bb1f-75461e68770b.svg)](https://wakatime.com/@4636b4d3-b3ea-4729-bb1f-75461e68770b)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhidhossain&theme=nightowl&layout=compact&v=2)]()
 
