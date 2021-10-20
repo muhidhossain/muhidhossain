@@ -22,6 +22,7 @@
 [![React Badge][react_img]](#)
 [![Next.js Badge][nextjs_img]](#)
 [![Redux Badge][redux_img]](#)
+[![Tailwind Badge][tailwind_img]](#)
 [![SASS Badge][sass_img]](#)
 [![Styled-components Badge][styledComponents_img]](#)
 [![Bootstrap Badge][bootstrap_img]](#)
@@ -77,6 +78,7 @@
 [react_img]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [nextjs_img]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [redux_img]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+[tailwind_img]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [sass_img]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 [styledComponents_img]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
 [bootstrap_img]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
