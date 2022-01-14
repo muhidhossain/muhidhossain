@@ -1,5 +1,5 @@
 ### Hello! I am [Muhid Hossain][website] ✅
-## A Front-end developer and Traveler 🚀🚀
+## A Front-end developer and Traveller 🚀🚀
 - 💻 Currently working at [Namyata Technology][job]
 - 🌱 Learning new things everyday
 - 📫 How to reach me [@muhidhossain][linkedin]
