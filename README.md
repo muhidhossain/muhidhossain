@@ -1,6 +1,6 @@
 ### Hello! I am [Muhid Hossain][website] ✅
 ## A Front-end developer and Traveller 🚀🚀
-- 💻 Currently working at [Namyata Technology][job]
+- 💻 Currently I am open to work[][job]
 - 🌱 Learning new things everyday
 - 📫 How to reach me [@muhidhossain][linkedin]
 - ⚡ Fun fact: Love to enjoy that moment after solving any problem ✌✌️
