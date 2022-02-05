@@ -1,5 +1,5 @@
 ### Hello! I am [Muhid Hossain][website] ✅
-## A self taught Front-end developer and Traveller 🚀🚀
+## A self taught Front-end Developer and Traveller 🚀🚀
 - 💻 Currently I am open to work[][job]
 - 🌱 Learning new things everyday
 - 📫 How to reach me [@muhidhossain][linkedin]
