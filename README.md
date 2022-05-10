@@ -8,7 +8,8 @@
 ### Connect with me ☕:
 
 [![Linkedin Badge][linkedin_img]][linkedin]
-[![Questions Badge][stackoverflow_img]][stackoverflow]
+[![Leetcode Badge][leetcode_img]][leetcode]
+[![Stack Overflow Badge][stackoverflow_img]][stackoverflow]
 [![Medium Badge][medium_img]][medium]
 [![Dev Badge][dev_img]][dev]
 [![Youtube Badge][youtube_img]][youtube]
@@ -59,6 +60,7 @@
 [job]: https://namyata.com/
 
 [linkedin]: https://www.linkedin.com/in/muhidhossain/
+[leetcode]: https://leetcode.com/muhidhossain/
 [stackoverflow]: https://stackoverflow.com/users/13667519/muhid-hossain?tab=profile
 [medium]: https://muhidhossain.medium.com
 [dev]: https://dev.to/muhidhossain
@@ -68,6 +70,7 @@
 [mail]: mailto:muhidhossain7@gmail.com
 
 [linkedin_img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[leetcode_img]: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
 [stackoverflow_img]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 [medium_img]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 [dev_img]: https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
