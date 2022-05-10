@@ -13,7 +13,6 @@
 [![Medium Badge][medium_img]][medium]
 [![Dev Badge][dev_img]][dev]
 [![Youtube Badge][youtube_img]][youtube]
-[![Facebook Badge][facebook_img]][facebook]
 [![Instagram Badge][instagram_img]][instagram]
 [![Mail Badge][mail_img]][mail]
 
@@ -65,7 +64,6 @@
 [medium]: https://muhidhossain.medium.com
 [dev]: https://dev.to/muhidhossain
 [youtube]: https://www.youtube.com/channel/UCswEDubzQ5DmaPzE3YusgUQ
-[facebook]: https://www.facebook.com/muhid.hossain.18/
 [instagram]: https://www.instagram.com/_abdul_muhit/
 [mail]: mailto:muhidhossain7@gmail.com
 
@@ -75,7 +73,6 @@
 [medium_img]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 [dev_img]: https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
 [youtube_img]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-[facebook_img]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [instagram_img]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [mail_img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
