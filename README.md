@@ -1,6 +1,6 @@
 ### Hello! I am [Muhid Hossain][website] ✅
 ## A self taught Front-end Developer and Traveller 🚀🚀
-- 💻 Currently I am open to work[][job]
+- 💻 Currently I am working at [Spacenus][job]
 - 🌱 Learning new things everyday
 - 📫 How to reach me [@muhidhossain][linkedin]
 - ⚡ Fun fact: Love to enjoy that moment after solving any problem ✌✌️
@@ -56,7 +56,7 @@
 
 
 [website]: https://muhid-hossain.web.app/
-[job]: https://namyata.com/
+[job]: https://spacenus.com/
 
 [linkedin]: https://www.linkedin.com/in/muhidhossain/
 [leetcode]: https://leetcode.com/muhidhossain/
