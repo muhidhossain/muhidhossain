@@ -20,6 +20,7 @@
 
 [![Javascript Badge][javascript_img]](#)
 [![Typescript Badge][typescript_img]](#)
+[![Angular Badge][angular_img]](#)
 [![React Badge][react_img]](#)
 [![Next.js Badge][nextjs_img]](#)
 [![Redux Badge][redux_img]](#)
@@ -78,6 +79,7 @@
 
 [javascript_img]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [typescript_img]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[angular_img]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [react_img]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [nextjs_img]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [redux_img]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
