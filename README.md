@@ -101,9 +101,9 @@
 
 [visitors]: https://visitor-badge.glitch.me/badge?page_id=muhidhossain.muhidhossain
 
-[github_stats]: https://github-readme-stats.vercel.app//api?username=muhidhossain&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl
+[github_stats]: https://github-readme-stats-sigma-five.vercel.app//api?username=muhidhossain&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl
 
-[most_used_languages]: https://github-readme-stats.vercel.app//api/top-langs/?username=muhidhossain&hide=stylus&count_private=true&card_width=495&theme=nightowl
+[most_used_languages]: https://github-readme-stats-sigma-five.vercel.app//api/top-langs/?username=muhidhossain&hide=stylus&count_private=true&card_width=495&theme=nightowl
 
 
 
