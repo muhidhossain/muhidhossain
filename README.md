@@ -1,6 +1,6 @@
 ### Hello! I am [Muhid Hossain][website] ✅
-## A self taught Front-end Developer and Traveller 🚀🚀
-- 💻 Currently I am working at [Spacenus][job]
+## A self-taught Front-end Developer and Traveller 🚀🚀
+- 💻 Currently working at [Spacenus][job]
 - 🌱 Learning new things everyday
 - 📫 How to reach me [@muhidhossain][linkedin]
 - ⚡ Fun fact: Love to enjoy that moment after solving any problem ✌✌️
