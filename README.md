@@ -20,9 +20,9 @@
 
 [![Javascript Badge][javascript_img]](#)
 [![Typescript Badge][typescript_img]](#)
-[![Angular Badge][angular_img]](#)
 [![React Badge][react_img]](#)
 [![Next.js Badge][nextjs_img]](#)
+[![Angular Badge][angular_img]](#)
 [![Redux Badge][redux_img]](#)
 [![Tailwind Badge][tailwind_img]](#)
 [![SASS Badge][sass_img]](#)
