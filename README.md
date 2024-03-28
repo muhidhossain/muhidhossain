@@ -40,10 +40,6 @@
 [![Linux Badge][linux_img]](#)
 [![Ubuntu Badge][ubuntu_img]](#)
 
-### Profile Visits 
-
-[![visitors][visitors]]()
-
 [![Github stats][github_stats]]()
 
 [![Most used angguages][most_used_languages]]()
