@@ -3,7 +3,7 @@
 - 💻 Currently working at [Spacenus GmbH][job]
 - 🌱 Learning new things every day
 - 📫 How to reach me [@muhidhossain][linkedin]
-- ⚡ Fun fact: Love to enjoy that moment after solving any problem ✌✌️
+- ⚡ Fun fact: I enjoy seeing how people interact with the software I develop.✌✌️
 
 ### Connect with me ☕:
 
