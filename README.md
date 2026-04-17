@@ -61,7 +61,7 @@
 [medium]: https://muhidhossain.medium.com
 [dev]: https://dev.to/muhidhossain
 [youtube]: https://www.youtube.com/channel/UCswEDubzQ5DmaPzE3YusgUQ
-[instagram]: https://www.instagram.com/_abdul_muhit/
+[instagram]: https://www.instagram.com/muhidhossainpeal/
 [mail]: mailto:muhidhossain7@gmail.com
 
 [linkedin_img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
